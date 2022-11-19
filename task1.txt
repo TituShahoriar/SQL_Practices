@@ -1,0 +1,21 @@
+1)	Find the first name and Last name of the employees who are supervised by “Franklin Wong’?
+Queries: 
+SELECT fname, lname
+FROM employee
+WHERE ssn='333445555'
+2)	Find the last and first name of the female employees who have a dependent with the same first name as themselves?
+Queries: 
+SELECT fname, lname, dependent_name
+FROM employee, dependent
+WHERE fname=dependent_name AND ssn=essn
+
+3)	For each department find out the department manager’s last name, his start date and the name his dependents (if any)?
+Queries:
+SELECT Last_Name, Hire_Date, dependent_name
+FROM dependent, department, emps
+WHERE mgrssn = essn
+4)	For each employee find out the employee’s last and first name, the department name in which he works and the project name he works in and the number of hours he work in those projects.
+Queries:
+SELECT fname, lname, Department_Name, pname
+FROM employee, depts, works_on, project
+WHERE works_on.essn=employee.ssn and works_on.pno=project.pnumber
