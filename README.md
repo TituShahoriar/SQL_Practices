@@ -71,11 +71,8 @@ For any inquiries or suggestions regarding the PHP+MySQL Lab Practices and Tasks
 
 - Name: Md Fahim Shahoriar Titu
 - Email: [fahimshahoriar66@gmail.com](mailto:fahimshahoriar66@gmail.com)
-- Facebook: [f
-
-ahim.shahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
+- Facebook: [fahim.shahoriar.t2](https://www.facebook.com/fahim.shahoriar.t2)
 - LinkedIn: [Fahim Shahoriar](https://www.linkedin.com/in/fahim-shahoriar/)
 - GitHub: [TituShahoriar](https://github.com/TituShahoriar)
 
 
-Please replace `[YourUsername]`, `[fahimshahoriar66@gmail.com]`, `[fahim.shahoriar.t2]`, `[https://www.linkedin.com/in/fahim-shahoriar/]`, and `[TituShahoriar]` with your relevant information.
